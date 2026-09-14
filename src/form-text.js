@@ -77,9 +77,7 @@ export default function FormText() {
                 <div className="text-center">
                     <button
                         type="button"
-                        className="btn btn-sm btn-primary px-4"
-                    >
-                        OK
+                        className="btn btn-sm btn-primary px-4">OK
                     </button>
                 </div>
             </form>
